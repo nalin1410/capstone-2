@@ -1,0 +1,7 @@
+Flask
+tensorflow
+numpy
+Pillow
+pymongo
+aiobotocore
+flask_bcrypt
